@@ -1,3 +1,4 @@
+> **Dasolve**
 # Creating a dasolve Project: A Step-by-Step Guide
 
 > **dasolve** is a powerful command-line interface designed to streamline your data science workflows by automating project setup, data analysis, and solution planning with the help of AI.
